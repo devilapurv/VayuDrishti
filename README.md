@@ -111,27 +111,27 @@ The screenshots below show the six interactive modules of VayuDrishti. All image
 ### 01 · Command Center
 Historical actual-versus-predicted AQI trends and key model performance metrics.
 
-![VayuDrishti Command Center](Dashboard1%283%29.png)
+![VayuDrishti Command Center](Dashboard1.png)
 
 ### 02 · Forecast Lab
 Generate next-day AQI predictions from historical measurements and inspect the 13 model inputs, AQI category, and threshold alert.
 
-![VayuDrishti Forecast Lab](Dashboard2%283%29.png)
+![VayuDrishti Forecast Lab](Dashboard2.png)
 
 ### 03 · Anomaly Radar — Historical Trends
 Explore the historical AQI timeline with anomalous observations highlighted by Isolation Forest.
 
-![VayuDrishti Anomaly Radar Chart](Dashboard3%283%29.png)
+![VayuDrishti Anomaly Radar Chart](Dashboard3.png)
 
 ### 04 · Anomaly Radar — Observation Analysis
 Inspect flagged historical events and analyze a manually entered pollutant observation.
 
-![VayuDrishti Anomaly Detection Results](Dashboard4%282%29.png)
+![VayuDrishti Anomaly Detection Results](Dashboard4.png)
 
 ### 05 · Scenario Studio — Interactive Controls
 Adjust pollutant inputs and compare the baseline prediction with a hypothetical model scenario.
 
-![VayuDrishti Scenario Studio](Dashboard5%282%29.png)
+![VayuDrishti Scenario Studio](Dashboard5.png)
 
 ### 06 · Scenario Studio — PM2.5 Response Curve
 Visualize how the forecast model responds to changing PM2.5 values while other inputs remain fixed. This is a sensitivity analysis, **not a causal estimate**.
